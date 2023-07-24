@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zakhar
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning solidity and ...
-- 💞️ I’m looking to collaborate on cryptocurrency
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning Decenteralize Web Applications & Centralize Web Applications 
+- 💞️ I’m looking to collaborate Open source community ...
 - 📫 How to reach me ...?
 
 <!---
