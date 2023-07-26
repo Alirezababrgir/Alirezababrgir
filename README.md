@@ -2,7 +2,7 @@
 - ###  I’m interested in Blockchan
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrFIfeaShPsFOgV420iFALCCetD9YGUzHxRg&usqp=CAU" width="100" height="150" >
+  <source media="(prefers-color-scheme: light)" srcset="https://openseauserdata.com/files/ee6d57dfec4b850fb132469d2d99ecfc.png" width="100" height="120" >
   <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
 </picture>
 
