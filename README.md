@@ -45,6 +45,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:624/1*DzRcrzfID0tboVlA-gCiCw.png" width="200" height="100" >
   <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://logowik.com/content/uploads/images/infura8896.logowik.com.webp" width="200" height="100" >
+  <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://logowik.com/content/uploads/images/alchemy2038.jpg" width="200" height="100" >
+  <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
+</picture>
 
 - ### Connect me :
 
