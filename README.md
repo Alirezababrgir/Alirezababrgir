@@ -8,7 +8,10 @@
 - I’m looking to collaborate Open source community ...
 
 - ## Technology and tools :
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://1000logos.net/wp-content/uploads/2017/03/Linux-Logo-2008.png" width="120" height="100" >
+  <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
+</picture>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="100" >
   <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
@@ -36,6 +39,10 @@
 </picture>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/9458ada3a77d85cfe488492d5098f39529b8ce085da57ed54c49a72723674d80/68747470733a2f2f74727566666c6573756974652e636f6d2f696d672f74727566666c652d6c6f676f6d61726b2e737667" width="80" height="100" >
+  <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:624/1*DzRcrzfID0tboVlA-gCiCw.png" width="200" height="100" >
   <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
 </picture>
 
