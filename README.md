@@ -1,10 +1,8 @@
 # 👋 I’m _Zahkar_ 
 - ###  I’m interested in Blockchan
+![](https://media2.giphy.com/media/Wu4TiWLLFqxk4KMRiU/200w.gif?cid=82a1493bjad58qamcywzee36w9emuer6khx2tnne2x4ichwz&ep=v1_gifs_related&rid=200w.gif&ct=g)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://openseauserdata.com/files/ee6d57dfec4b850fb132469d2d99ecfc.png" width="100" height="120" >
-  <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
-</picture>
+
 
 - I’m currently learning Decenteralize Web Applications & Centralize Web Applications 
 - I’m looking to collaborate Open source community ...
