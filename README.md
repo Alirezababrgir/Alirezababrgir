@@ -4,7 +4,7 @@
 
 
 
-- I’m currently learning Decenteralize Web Applications & Centralize Web Applications 
+- I’m currently learning Solidity , Node.js ...
 - I’m looking to collaborate Open source community ...
 
 - ## Technology and tools :
