@@ -1,13 +1,13 @@
-# 👋 I’m Alireza
+# <sub>Hi👋</sub>I’m Alireza
 - ###  I’m interested in Blockchan
 ![](https://media2.giphy.com/media/Wu4TiWLLFqxk4KMRiU/200w.gif)
 
 
 
-- I’m currently learning Solidity , Node.js ...
+- I’m currently learning Frontend , Node.js ,Solidity ...
 - I’m looking to collaborate Open source community ...
 
-- ## Technology and tools :
+- ### Technology and tools :
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://1000logos.net/wp-content/uploads/2017/03/Linux-Logo-2008.png" width="60" height="40" >
   <img alt="https://banner2.cleanpng.com/20190418/rgf/kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpg">
